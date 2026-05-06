@@ -129,7 +129,7 @@ DATABASES = {
         'ENGINE': "mysql.connector.django",
         'NAME':'eglise',
         "USER": "root",
-        "PASSWORD": "navi@123",
+        "PASSWORD": "akshaytr",
         "HOST": "127.0.0.1",
         "PORT": "3306",
         "OPTIONS": {
